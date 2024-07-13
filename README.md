@@ -16,5 +16,4 @@ Through this project, I gained a comprehensive understanding of Unix process con
 
 Testing was performed using provided trace files and automated scripts, ensuring the shell's functionality matched the reference solution. The `sdriver.pl` program was instrumental in validating the shell's behavior against various scenarios, from simple command execution to complex job control tasks. This project provided valuable insights and practical experience in systems programming, enhancing my ability to develop and debug complex software systems, making me more adept at handling real-world programming challenges.
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/15a304de-b18f-49fc-9c7f-e1a786ba86ac)
