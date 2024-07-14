@@ -1,0 +1,7 @@
+#
+# trace18.txt - Simple pipeline with echos
+# sample output: "hello world"\n "hello world 2"
+#
+/bin/echo -e "hello world"
+
+/bin/echo "hello world" | /bin/echo "hello world 2"
